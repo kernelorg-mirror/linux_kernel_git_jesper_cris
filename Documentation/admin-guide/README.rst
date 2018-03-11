@@ -26,7 +26,7 @@ On what hardware does it run?
   Although originally developed first for 32-bit x86-based PCs (386 or higher),
   today Linux also runs on (at least) the Compaq Alpha AXP, Sun SPARC and
   UltraSPARC, Motorola 68000, PowerPC, PowerPC64, ARM, Hitachi SuperH, Cell,
-  IBM S/390, MIPS, HP PA-RISC, Intel IA-64, DEC VAX, AMD x86-64, AXIS CRIS,
+  IBM S/390, MIPS, HP PA-RISC, Intel IA-64, DEC VAX, AMD x86-64,
   Xtensa, Tilera TILE, ARC and Renesas M32R architectures.
 
   Linux is easily portable to most general-purpose 32- or 64-bit architectures

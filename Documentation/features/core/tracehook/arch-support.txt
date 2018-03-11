@@ -12,7 +12,6 @@
     |       arm64: |  ok  |
     |    blackfin: |  ok  |
     |         c6x: |  ok  |
-    |        cris: | TODO |
     |         frv: |  ok  |
     |       h8300: | TODO |
     |     hexagon: |  ok  |

@@ -260,9 +260,6 @@
 /* SPRD SERIAL  */
 #define PORT_SPRD	111
 
-/* Cris v10 / v32 SoC */
-#define PORT_CRIS	112
-
 /* STM32 USART */
 #define PORT_STM32	113
 

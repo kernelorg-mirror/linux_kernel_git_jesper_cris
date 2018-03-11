@@ -94,8 +94,6 @@ obj-$(CONFIG_SPRD_WATCHDOG) += sprd_wdt.o
 # BLACKFIN Architecture
 obj-$(CONFIG_BFIN_WDT) += bfin_wdt.o
 
-# CRIS Architecture
-
 # FRV Architecture
 
 # X86 (i386 + ia64 + x86_64) Architecture

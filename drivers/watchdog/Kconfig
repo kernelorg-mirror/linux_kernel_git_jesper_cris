@@ -828,8 +828,6 @@ config BFIN_WDT
 	  To compile this driver as a module, choose M here: the
 	  module will be called bfin_wdt.
 
-# CRIS Architecture
-
 # FRV Architecture
 
 # X86 (i386 + ia64 + x86_64) Architecture
